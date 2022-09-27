@@ -1,0 +1,5 @@
+primeiro = input('Digite um numero ')
+segundo = input('Digite outro numero ')
+soma= int(primeiro) + int(segundo)
+print('A soma dos numeros é', soma)
+print('Não é mesmo?')
