@@ -17,9 +17,9 @@ cam5 = {'lugar': 'da Epitácio Pessoa com Oswaldo Chocrane', 'url': 'https://ego
 cam6 = {'lugar': 'da Epitacio Pessoa', 'url': 'https://egov.santos.sp.gov.br/santosmapeada/css/img/cameras/cam1578/snap_c1.jpg?1677311184499'}
 cam7 = {'lugar': 'do CPE', 'url': 'https://egov.santos.sp.gov.br/santosmapeada/css/img/cameras/cam1561/snap_c1.jpg?1677311246793'}
 cam8 = {'lugar': 'do Canal 4', 'url': 'https://egov.santos.sp.gov.br/santosmapeada/css/img/cameras/cam1591/snap_c1.jpg?1677311286046'}
-cam9 = {'lugar': 'do porto', 'url': 'https://www.youtube.com/c45f81cd-39f3-465e-83a3-c0dad6173779'}
+#cam9 = {'lugar': 'do porto', 'url': 'https://www.youtube.com/c45f81cd-39f3-465e-83a3-c0dad6173779'}
 
-cameras = [cam1, cam2, cam3, cam4, cam5, cam6, cam7, cam8, cam9]
+cameras = [cam1, cam2, cam3, cam4, cam5, cam6, cam7, cam8]
 
 print(R + '-' * 54)
 print(V + """⠀⠀⠀⠀⠀⠀⠈⣷⣄⠀⠀⠀⠀⣾⣷⠀⠀⠀⠀⣠⣾⠃⠀⠀⠀⠀⠀⠀⠀⠀   
